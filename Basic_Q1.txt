@@ -1,0 +1,7 @@
+1 - int (Integer)
+3.14 - float
+"Big Data!" - str (String)
+'Big Data!' - str (String)
+True -bool (Bolean)
+False - bool (Bolean)
+[1,2"intruder".3] - complex
